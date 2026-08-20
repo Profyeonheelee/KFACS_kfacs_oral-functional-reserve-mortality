@@ -12,7 +12,7 @@ Run `00_setup_and_mice.py` first. Set `DATA_DIR` near the top of the script to t
 
 - `_최종_2016_2024_KFACS.xlsx`
 - `_최종_2016-2020_통합자료_치과_v20230904_LYH.xlsx`
-- `TalkFile_outcome_w1w5.xlsx`
+- `outcome_w1w5.xlsx`
 - `KFACS_추적조사상세_최종_260608__2_.xlsx`
 
 The setup script creates the intermediate datasets used by the remaining Python scripts:
