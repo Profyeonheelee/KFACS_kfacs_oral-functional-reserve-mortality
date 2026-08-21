@@ -1,9 +1,6 @@
 ## =============================================================================
 ## eFigure 3. Sequential pathway attenuation of the association between low
 ##            functional dentition (<10 units) and all-cause mortality
-##
-## Contains published summary statistics only; no participant-level data are
-## read, written or required.
 ## =============================================================================
 ## ---- 0. Packages ------------------------------------------------------------
 if (!requireNamespace("ggplot2", quietly = TRUE)) {
